@@ -16,7 +16,7 @@ The purpose of this repository is to practice and understand how to:
 | File | Description |
 |------|-------------|
 | 📖 `README.md` | Introduction and information about the repository |
-| 🌸 `SANCHEZ COR 2026-27` | view me |
+| 🌸 `SANCHEZ COR 2026-27.pdf` | view me |
 | 💻 `waray vs. biday.png` | Ultimate baby war |
 | 📝 `hello.txt` | subscribe for more meaningful lyrics |
 
