@@ -16,8 +16,9 @@ The purpose of this repository is to practice and understand how to:
 | File | Description |
 |------|-------------|
 | 📖 `README.md` | Introduction and information about the repository |
-| 🌸 `hwllo.txt` | A short description about this activity |
-| 💻 `hello` | My simple GitHub practice file |
-| 📝 `notes.txt` | Notes about what I learned from Git and GitHub |
+| 🌸 `SANCHEZ COR 2026-27` | view me |
+| 💻 `waray vs. biday.png` | Ultimate baby war |
+| 📝 `hello.txt` | subscribe for more meaningful lyrics |
 
 ## BOOM SHAKALAH BAYBE
+SANCHEZ, LORENA P. IV-CCSAD
